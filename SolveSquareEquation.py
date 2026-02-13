@@ -22,7 +22,7 @@ else:
         x1 = (-b - math.sqrt(d)) / (2 * a)
         x2 = (-b + math.sqrt(d)) / (2 * a)
         print("The equation has the following roots:")
-        print("x1 = " + x1)
-        print("x2 = " + x2)
+        print("x1 = " + str(x1))
+        print("x2 = " + str(x2))
     else:
         print("The equation has no roots")
