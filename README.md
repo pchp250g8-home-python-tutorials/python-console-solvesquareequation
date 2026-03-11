@@ -15,7 +15,7 @@ The program does the following:
        4. If the number of roots of a quadratic equation is greater than zero (can be 0, 1 or 2), then
           the program displays solutions to formulas
          "x1=-b-sqrt(d)/(2*a)" and "x2=-b+sqrt(d)/(2*a)". Otherwise, the phrase "the equation has no roots" is displayed.
-Developed in the PascalABCDotNet integrated environment.
+Developed in the Spyder integrated environment (in the Microsoft Visual Studio Code editor).
 
 
 SolveSquareEquation. Занятия по Python. Алгоритмы. Простой ввод-вывод. Консольное приложение.
@@ -34,6 +34,4 @@ SolveSquareEquation. Занятия по Python. Алгоритмы. Прост�
           3. Это и есть число корней квадратного уравнения.
           4. Если число корней квадратного уравнения больше нуля (может быть 0, 1 или 2), то на экран выводятся решения по фомулам
              "x1=-b-sqrt(d)/(2*a)" и "x2=-b+sqrt(d)/(2*a)". В противном случае выводится фраза "уравнение не имеет корней".
-Разработано в интегрированной среде PascalABCDotNet.
-
-
+Разработано в интегрированной среде Spyder (в редакторе Microsoft Visual Studio Code).
