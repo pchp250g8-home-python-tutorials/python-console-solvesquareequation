@@ -1,4 +1,4 @@
-SolveSquareEquation. Python tutorials. Algorithms. Simple Input/Output. Console Application. 
+SolveSquareEquation. Python tutorials. Algorithms. Simple Input/Output. Console Application.
 A console application in the Python programming language. 
 The program does the following:
 1. Asks you to enter the coefficients of a quadratic equation that needs to be solved.
